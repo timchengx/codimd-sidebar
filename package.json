@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "liquor-tree": "^0.2.53",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-vue": "^0.8.1",
+    "vue-burger-menu": "^2.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
