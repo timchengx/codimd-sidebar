@@ -1,5 +1,7 @@
 # codimd-sidebar
 
+Add note sidebar to CodiMD by /history data
+
 ## Project setup
 ```
 npm install
