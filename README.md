@@ -2,6 +2,8 @@
 
 Add note sidebar to CodiMD by /history data
 
+[Demo Here](https://timchengx.github.io/codimd-sidebar)
+
 ## Project setup
 ```
 npm install
