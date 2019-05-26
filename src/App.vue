@@ -11,7 +11,7 @@
           <div class="ui stacked segment">
             <div class="ui message">
               <p>
-                Paste your CodiMD host<br> note history (https://&lt;CodiMD-host&gt;/history)
+                Paste your CodiMD/HackMD host<br> note history (https://&lt;Host&gt;/history)
               </p>
             </div>
 
@@ -23,7 +23,7 @@
                 <div class="ui label">
                   <i></i>https://
                 </div>
-                <input v-model="host" type="text" placeholder="CodiMD URL">
+                <input v-model="host" type="text" placeholder="Host URL">
               </div>
             </div>
             <input type="button" class="ui fluid large teal button" v-on:click="generate" value="Generate"/>
