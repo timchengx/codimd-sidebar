@@ -144,7 +144,7 @@ export default {
         this.parseHistoryJSON()
         this.$refs.tree.setModel(this.treeData)
         this.parsed = true
-        this.current_link = 'https://' + this.host + '/'
+        this.current_link = 'https://' + this.host + '/features'
         this.refreshing = true
         localStorage.setItem('rawData', this.rawData)
         localStorage.setItem('host', this.host)
